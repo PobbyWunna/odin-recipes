@@ -9,3 +9,6 @@ I will change the dish.
 
 9.12.2024
 I changed the name of "lahpet thoke" to "laphet thoke".
+
+10.12.2024
+The website now shows the information about all three recipes.
